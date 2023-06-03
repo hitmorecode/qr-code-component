@@ -41,20 +41,23 @@ main {
 img {
   width: 288px;
   border-radius: 10px;
-  margin-bottom: 21px;
+  margin-bottom: 24px;
 }
 
 h1 {
   font-size: 1.25rem;
   text-align: center;
-  line-height: 1.6rem;
-  margin-bottom: 26px;
+  line-height: 28px;
+  margin-bottom: 16px;
   color: var(--dark-blue);
+  padding: 0 15px;
+  letter-spacing: 1px;
 }
 
 p {
   font-size: 0.9375rem;
   color: var(--grayish-blue);
   text-align: center;
-  padding: 0 15px;
+  padding: 0 12px;
+  letter-spacing: 0.5px;
 }
