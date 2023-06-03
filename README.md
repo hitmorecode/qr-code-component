@@ -34,7 +34,7 @@ Users should be able to:
 
 - Solution URL: [HTML Solution](https://github.com/hitmorecode/qr-code-component/blob/main/index.html)
 - Solution URL: [CSS Solution](https://github.com/hitmorecode/qr-code-component/blob/main/css/style.css)
-- Live Site URL: [Live site](https://hitmorecode.github.io/NFT_preview_card_component/)
+- Live Site URL: [Live site](https://hitmorecode.github.io/qr-code-component/)
 
 ## My process
 
