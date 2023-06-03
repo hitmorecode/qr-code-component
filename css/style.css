@@ -32,7 +32,7 @@ main {
   flex-direction: column;
   height: 497px;
   width: 320px;
-  background-color: var(---white);
+  background-color: var(--white);
   padding: 16px;
   border-radius: 20px;
   box-shadow: 0 20px 30px 6px hsl(211, 32%, 88%);
